@@ -4,7 +4,7 @@ HatH Rust Version Container
 ## Pull
 
 ```
-docker pull ghcr.io/asdf3601a/hath-rust-docker:main
+docker pull ghcr.io/asdf3601a/hath-rust-docker:arm64
 ```
 
 ## Run
