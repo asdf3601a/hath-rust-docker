@@ -12,4 +12,4 @@ if [ $KEY ]
     
 fi
 
-./hath-rust
+hath-rust
