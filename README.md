@@ -19,5 +19,5 @@ docker run --name hath \
 -v data:/hath/data \
 -v cache:/hath/cache \
 -p [Your Port]:[Your Port] \
--d ghcr.io/asdf3601a/hath-rust-docker
+-d ghcr.io/asdf3601a/hath-rust-docker:main
 ```
