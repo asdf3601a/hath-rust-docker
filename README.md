@@ -1,7 +1,7 @@
 # A better image is already available.
 This repository is no longer necessary.
 
-If you are initially setup hath docker.
+If you are initial setup hath-docker.
 
 **Create work directory manually**
 
